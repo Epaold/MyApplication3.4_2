@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">HW33_4AndroidEpikhun</string>
+    <string name="Text_1">Текст на Русском языке </string>
+    <string name="button_1">ВКЛ. </string>
+    <string name="button_2">ok </string>
+
+    <string-array name="Language">
+        <item>Английский </item>
+        <item>Немецкий</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>black </item>
+        <item>green</item>
+        <item>blue</item>
+    </string-array>
+
+</resources>

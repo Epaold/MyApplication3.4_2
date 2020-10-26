@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application3</string>
+
+    <string-array name="Language">
+        <item>English </item>
+        <item>German</item>
+        <item>Russian</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>black </item>
+        <item>green</item>
+        <item>blue</item>
+    </string-array>
+
+    <string-array name="access">
+        <item>Мелкие </item>
+        <item>Средние</item>
+        <item>Большие</item>
+    </string-array>
+
+    черный, зеленый и синий
+    Black, green, blue
+
+    <string name="Text_1">Ту́шино — вернакулярный район на северо-западе Москвы. Впервые упоминается как деревня в 1512 году. С 1938 года — город. С 1960 года — в составе Москвы.  </string>
+    <string name="button_1">switch </string>
+    <string name="button_2">ok </string>
+    <string name="button2" translatable="false">Размер </string>
+
+</resources>
